@@ -1,5 +1,5 @@
 [
-  "astro/microvm.nix"
+  "qowoz/microvm.nix"
   "nix-community/authentik-nix"
   "nix-community/autofirma-nix"
   "nix-community/dream2nix"
